@@ -260,6 +260,10 @@
   </distributionManagement>
 
   <properties>
+
+    <sonar.login>admin</sonar.login>
+    <sonar.password>op14092003</sonar.password> 
+     
     <!-- Copyright -->
     <copyright>2024</copyright>
 
